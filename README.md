@@ -1,7 +1,5 @@
 <h1 align="center">Maksym Niemtsev</h1>
 
----
-
 ### Programming Languages
 
 <p>
